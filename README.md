@@ -19,5 +19,5 @@ It is a zoo management system designed to help manage animals, enclosures, and v
    git clone https://github.com/Simangaliso24/pinecity-zoo.git
 
 ## 👨🏽‍💻 Author
-Developed by Simphiwe Ndlangamandla during the FNB Academy program.
+Developed by Simangaliso Sangweni during the FNB Academy program.
 
