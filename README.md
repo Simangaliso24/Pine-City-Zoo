@@ -1,7 +1,6 @@
-# PineCity Zoo 🦁🐘🐒
+# Pine City Zoo 🦁🐘🐒
 
-The **PineCity Zoo** project was developed during the **FNB Academy program**.  
-It is a zoo management system designed to help manage animals, enclosures, and visitors while providing an interactive experience.
+The **Pine City Zoo** Project was developed as part of the **FNB Academy** Program. It is a comprehensive zoo management system designed to streamline the management of animals, enclosures, and visitors, while also providing an interactive user experience.
 
 ## ✨ Features
 - 🐾 Manage animal records (species, age, habitat)
@@ -20,7 +19,7 @@ It is a zoo management system designed to help manage animals, enclosures, and v
    ```
 
 ## 👨🏽‍💻 Author
-Developed by Simangaliso Sangweni during the FNB Academy program.
+Developed by **Simangaliso Sangweni** during the FNB Academy program.
 
 ## 📸 Screenshots
 
