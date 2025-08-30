@@ -67,7 +67,7 @@ It is a simple web-based calculator that performs basic arithmetic operations.
 2. Open `index.html` in your browser.
 
 ### 🌐 Live Demo  
-🔗 [View the Calculator](https://simangaliso24.github.io/Pine-City-Zoo/Calculator/index.html)
+🔗 [View the Calculator](https://simangaliso24.github.io/Pine-City-Zoo/Calculator/calculator.html)
 
 ### 📸 Screenshot
 ![Calculator Screenshot](Calculator/calculator.png)
