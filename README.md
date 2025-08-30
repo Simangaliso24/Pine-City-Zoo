@@ -1,22 +1,42 @@
-#  FNB Academy Projects🦁🐘🐒
+# FNB Academy Projects 🦁🖩
 
-The **Pine City Zoo** Projects was developed as part of the **FNB Academy** Program. It is a comprehensive zoo management system designed to streamline the management of animals, enclosures, and visitors, while also providing an interactive user experience.
+This repository contains projects developed during the **FNB Academy Program** by **Simangaliso Sangweni**.  
+It showcases web applications built with HTML, CSS, and JavaScript.
+
+The projects included are:
+
+- **Pine City Zoo**: A comprehensive zoo management system designed to streamline the management of animals, enclosures, and visitors, while providing an interactive user experience.
+- **Calculator**: A simple web-based calculator that performs basic arithmetic operations.
+
+---
 
 ## ✨ Features
+
+### Pine City Zoo 🦁🐘🐒
 - 🐾 Manage animal records (species, age, habitat)
 - 🏞️ Enclosure information and maintenance
 - 🎟️ Ticketing and visitor management
+
+### Calculator 🖩
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 🔄 Clear/reset function
+
+---
 
 ## 🛠️ Technologies Used
 - HTML
 - CSS
 - JavaScript
 
+---
+
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Simangaliso24/pinecity-zoo.git
-   ```
+   git clone https://github.com/Simangaliso24/Pine-City-Zoo.git
 
 ## 👨🏽‍💻 Author
 Developed by **Simangaliso Sangweni** during the FNB Academy program.
@@ -48,30 +68,11 @@ Below are screenshots showing how the website looks.
 ## 2️⃣ Calculator 🖩
 
 The **Calculator** project was developed as part of the **FNB Academy Program**.  
-It is a simple web-based calculator that performs basic arithmetic operations.
-
-### ✨ Features
-- ➕ Addition  
-- ➖ Subtraction  
-- ✖️ Multiplication  
-- ➗ Division  
-- 🔄 Clear/reset function  
-
-### 🛠️ Technologies Used
-- HTML  
-- CSS  
-- JavaScript  
-
-### 🚀 How to Run
-1. Navigate to the `Calculator` folder in the repository.  
-2. Open `index.html` in your browser.
+It is a simple web-based calculator that performs basic arithmetic operations. 
 
 ### 🌐 Live Demo  
 🔗 [View the Calculator](https://simangaliso24.github.io/Pine-City-Zoo/Calculator/calculator.html)
 
 ### 📸 Screenshot
 ![Calculator Screenshot](Calculator/calculator.png)
-
-### 👨🏽‍💻 Author
-Developed by **Simangaliso Sangweni** during the FNB Academy Program.
 
