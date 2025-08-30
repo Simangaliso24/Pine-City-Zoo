@@ -1,7 +1,7 @@
 # FNB Academy Projects 🦁🖩
 
-This repository contains projects developed during the **FNB Academy Program** by **Simangaliso Sangweni**.  
-It showcases web applications built with HTML, CSS, and JavaScript.
+Here you will find projects that i developed during the **FNB Academy Program**.  
+they showcases web applications built with HTML, CSS, and JavaScript.
 
 The projects included are:
 
@@ -67,8 +67,7 @@ Below are screenshots showing how the website looks.
 
 ## 2️⃣ Calculator 🖩
 
-The **Calculator** project was developed as part of the **FNB Academy Program**.  
-It is a simple web-based calculator that performs basic arithmetic operations. 
+This is a simple web-based calculator that performs basic arithmetic operations. 
 
 ### 🌐 Live Demo  
 🔗 [View the Calculator](https://simangaliso24.github.io/Pine-City-Zoo/Calculator/calculator.html)
