@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Calculator</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <td colspan="4">
+                <input type="text" id="inputBox" value="0"/>
+            </td>
+        </tr>
+        <tr>
+            <td class="digButton" onclick="dgtButtonPressed(7)">7</td>
+            <td class="digButton" onclick="dgtButtonPressed(8)">8</td>
+            <td class="digButton" onclick="dgtButtonPressed(9)">9</td>
+            <td class="opButton" onclick="oprtButtonPressed('*')">x</td>
+        </tr>
+        <tr>
+            <td class="digButton" onclick="dgtButtonPressed(4)">4</td>
+            <td class="digButton" onclick="dgtButtonPressed(5)">5</td>
+            <td class="digButton" onclick="dgtButtonPressed(6)">6</td>
+            <td class="opButton" onclick="oprtButtonPressed('-')">-</td>
+        </tr>
+        <tr>
+            <td class="digButton" onclick="dgtButtonPressed(1)">1</td>
+            <td class="digButton" onclick="dgtButtonPressed(2)">2</td>
+            <td class="digButton" onclick="dgtButtonPressed(3)">3</td>
+            <td class="opButton" onclick="oprtButtonPressed('+')">+</td>
+        </tr>
+        <tr>
+            <td class="digButton" colspan="2" onclick="dgtButtonPressed(0)">0</td>
+            <td class="acButton" onclick="btnPressedAc()">AC</td>
+            <td class="opButton" onclick="oprtButtonPressed('/')">/</td>
+        </tr>
+        <tr>
+            <td class="eqButton" colspan="4" onclick="equalBtnPressed()">=</td>
+        </tr>
+    </table>
+
+    <script>
+        var value1 = 0;
+        var curOperator = "";
+        var newLine = true;
+
+        function dgtButtonPressed(button) {
+            var input = document.getElementById("inputBox");
+            if (newLine || input.value === "0") {
+                input.value = button;
+                newLine = false;
+            } else {
+                input.value += button;
+            }
+        }
+
+        function btnPressedAc() {
+            var input = document.getElementById("inputBox");
+            input.value = 0;
+            value1 = 0;
+            curOperator = "";
+            newLine = true;
+        }
+
+        function oprtButtonPressed(operator) {
+            var input = document.getElementById("inputBox");
+
+            // Store value1 only if no operator is selected yet
+            if (!curOperator) {
+                value1 = parseFloat(input.value);
+            }
+
+            curOperator = operator;
+            input.value += " " + operator + " "; // show operator
+            newLine = false; // allow entering second number
+        }
+
+        function equalBtnPressed() {
+            var input = document.getElementById("inputBox");
+            var parts = input.value.split(" "); // split by spaces
+
+            if (parts.length < 3) return; // incomplete input
+
+            var value2 = parseFloat(parts[2]);
+            var finalTot;
+
+            switch (curOperator) {
+                case "+":
+                    finalTot = value1 + value2;
+                    break;
+                case "-":
+                    finalTot = value1 - value2;
+                    break;
+                case "*":
+                    finalTot = value1 * value2;
+                    break;
+                case "/":
+                    finalTot = value1 / value2;
+                    break;
+            }
+
+            input.value = finalTot; // show only result
+            value1 = finalTot;      // allow chaining calculations
+            curOperator = "";
+            newLine = true;
+        }
+    </script>
+</body>
+</html>
