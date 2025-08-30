@@ -21,7 +21,9 @@ The **Pine City Zoo** Project was developed as part of the **FNB Academy** Progr
 ## 👨🏽‍💻 Author
 Developed by **Simangaliso Sangweni** during the FNB Academy program.
 
-## 📸 Screenshots
+🔗 [Visit the PineCity Zoo Website]( https://simangaliso24.github.io/Pine-City-Zoo/)
+
+## 📸 Screenshots below shows how the website look like.
 
 ### Homepage
 ![Homepage](homepages/maps.png)
