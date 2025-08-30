@@ -70,7 +70,7 @@ It is a simple web-based calculator that performs basic arithmetic operations.
 🔗 [View the Calculator](https://simangaliso24.github.io/Pine-City-Zoo/Calculator/index.html)
 
 ### 📸 Screenshot
-![Calculator Screenshot](Calculator/screenshots/calculator.png)
+![Calculator Screenshot](Calculator/calculator.png)
 
 ### 👨🏽‍💻 Author
 Developed by **Simangaliso Sangweni** during the FNB Academy Program.
