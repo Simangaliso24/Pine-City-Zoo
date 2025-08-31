@@ -72,7 +72,7 @@ This is a simple web-based calculator that performs basic arithmetic operations.
 ### 🌐 Live Demo  
 <p align="center">
   <a href="https://simangaliso24.github.io/Pine-City-Zoo/Calculator/calculator.html" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-FNB%20Project-blue?style=for-the-badge&logo=firefox" alt="Visit FNB Project"/>
+    <img src="https://img.shields.io/badge/Visit-FNB%20Project-blue?style=for-the-badge&logo=firefox" alt="Visit Calculator"/>
   </a>
 </p>
 
