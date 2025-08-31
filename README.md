@@ -42,26 +42,26 @@ The projects included are:
 Developed by **Simangaliso Sangweni** during the FNB Academy program.
 
 ## 🌐 Live Demo 
+<p align="center">
+  <a href="https://simangaliso24.github.io/Pine-City-Zoo/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-FNB%20Project-blue?style=for-the-badge&logo=firefox" alt="Visit Pine City Zoo"/>
+  </a>
+</p>
 
-🔗 [Visit the PineCity Zoo Website]( https://simangaliso24.github.io/Pine-City-Zoo/)
 
 ## 📸 Screenshots
 Below are screenshots showing how the website looks.
 
-### Homepage
-![Homepage](homepages/maps.png)
+## 📸 Screenshots
 
-### Animals Page
-![Animals Page](homepages/animals.png)
+| Homepage | Places | Animals Page |
+|-------|------------|--------------|
+| ![Homepage](homepages/maps.png) | ![Places](homepages/places.png) | ![Animals](homepages/animals.png) |
 
-### Places Page
-![Places Page](homepages/places.png)
+| Weather | Feedback |
+|---------|-----------|
+| ![Weather](homepages/weather.png) | ![Feedback](homepages/feedback.png) |
 
-### Weather Page
-![Weather Page](homepages/weather.png)
-
-### Feedback Page
-![Feedback Page](homepages/feedback.png)
 
 ---
 
@@ -70,7 +70,11 @@ Below are screenshots showing how the website looks.
 This is a simple web-based calculator that performs basic arithmetic operations. 
 
 ### 🌐 Live Demo  
-🔗 [View the Calculator](https://simangaliso24.github.io/Pine-City-Zoo/Calculator/calculator.html)
+<p align="center">
+  <a href="https://simangaliso24.github.io/Pine-City-Zoo/Calculator/calculator.html" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-FNB%20Project-blue?style=for-the-badge&logo=firefox" alt="Visit FNB Project"/>
+  </a>
+</p>
 
 ### 📸 Screenshot
 ![Calculator Screenshot](Calculator/calculator.png)
