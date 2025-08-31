@@ -44,7 +44,7 @@ Developed by **Simangaliso Sangweni** during the FNB Academy program.
 ## 🌐 Live Demo 
 <p align="center">
   <a href="https://simangaliso24.github.io/Pine-City-Zoo/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-FNB%20Project-blue?style=for-the-badge&logo=firefox" alt="Visit Pine City Zoo"/>
+    <img src="https://img.shields.io/badge/Visit-FNB%20Pine City Zoo-blue?style=for-the-badge&logo=firefox" alt="Visit Pine City Zoo"/>
   </a>
 </p>
 
